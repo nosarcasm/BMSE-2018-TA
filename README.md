@@ -12,6 +12,6 @@ Timesheet:
 1   hr    - 9/18 5-6 PM mtg
 1.5 hrs   - 9/19 7-8:30 PM other
 .5  hrs   - 9/20 12:30 PM other
-2 hrs - 9/24 4:00 PM office hours
+2.5 hrs   - 9/24 4:00 PM office hours
 '''
 ```
