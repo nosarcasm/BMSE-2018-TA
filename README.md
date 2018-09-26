@@ -13,5 +13,6 @@ Timesheet:
 1.5 hrs   - 9/19 7-8:30 PM other
 .5  hrs   - 9/20 12:30 PM other
 2.5 hrs   - 9/24 4:00 PM office hours
+1.25 hrs   - 9/26 5:30 PM office hours
 '''
 ```
