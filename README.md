@@ -14,10 +14,10 @@ Timesheet:
 .5  hrs   - 9/20 12:30-1 PM other
 2.5 hrs   - 9/24 4-6:30 PM office hours
 2 hrs     - 9/26 5:30-7:30 PM office hours + misc hw#3 work
-1 hrs     - 9/28 4-5 PM office hours
+1 hr      - 9/28 4-5 PM office hours
 3 hrs     - 10/2 1-4 PM Creating homework #4 (Oct 2nd 1-4 PM)
-1 hrs     - 10/6 12-1 PM Editing homework #4 (Oct 6th 12-1 PM)
-1 hrs     - 10/11 4-5 PM Office hours
+1 hr      - 10/6 12-1 PM Editing homework #4 (Oct 6th 12-1 PM)
+1 hr      - 10/11 4-5 PM Office hours
 =============
 14.5 hrs total 10/11
 '''
