@@ -18,5 +18,7 @@ Timesheet:
 3 hrs     - 10/2 1-4 PM Creating homework #4 (Oct 2nd 1-4 PM)
 1 hrs     - 10/6 12-1 PM Editing homework #4 (Oct 6th 12-1 PM)
 1 hrs     - 10/11 4-5 PM Office hours
+=============
+14.5 hrs total 10/11
 '''
 ```
