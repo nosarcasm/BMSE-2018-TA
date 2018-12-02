@@ -22,6 +22,7 @@ Timesheet:
 2 hr      - 10/18 grading hw 4
 0.5 hr    - 11/14 online help
 0.5 hr    - 11/15 online help
+2 hr      - 11/30-12/2 in person and online help, total so far: 20.5 hrs
 =============
 '''
 ```
