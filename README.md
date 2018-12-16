@@ -25,6 +25,7 @@ Timesheet:
 2 hr      - 11/30-12/2 in person and online help, total so far: 21.5 hrs total
 1 hr      - 12/6 in person meeting, 22.5 hrs total
 4.5 hr    - 12/15 HW 8 grading, 27 hrs total
+1.5 hr    - 12/15 HW 8 class example prep, 28.5 hrs total
 =============
 '''
 ```
