@@ -26,6 +26,7 @@ Timesheet:
 1 hr      - 12/6 in person meeting, 22.5 hrs total
 4.5 hr    - 12/15 HW 8 grading, 27 hrs total
 1.5 hr    - 12/15 HW 8 class example prep, 28.5 hrs total
+1.5 hr    - 12/17 Responding to student email and researching for capstone project, 30 hrs total
 =============
 '''
 ```
